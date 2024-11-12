@@ -15,7 +15,6 @@ import os
 import torch
 import numpy as np
 from PIL import Image, ImageSequence, ImageOps
-import io
 import requests
 from io import BytesIO
 
